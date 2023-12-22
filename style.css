@@ -1,0 +1,17 @@
+/* style.css */
+
+.site {
+    background-color: cadetblue;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    text-align: center;
+}
+
+.lists {
+    background: white;
+    padding: 16px 24px;
+    text-align: center;
+}
