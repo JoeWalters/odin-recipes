@@ -14,9 +14,10 @@
     background: white;
     padding: 16px 24px;
     text-align: center;
-    display: flex
+    display: flex;
+    gap: 8px;
 }
 
 .lists button {
-    flex: 1
+    flex: 1;
 }
